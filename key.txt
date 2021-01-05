@@ -1,0 +1,22 @@
+APP ID: 215322979467493
+
+b05bd3525303235589a766f9d154c13ef8a73d05 rest api key
+
+GUID testgroup
+
+
+// import React from 'react'
+// import { useParams } from 'react-router-dom';
+
+// export default function Chat() {
+//     const {email}=useParams();
+
+//     return (
+
+
+//         <div>
+//             Welcome to your chat Board.. You are logged in as {email}..
+//         </div>
+//     )
+// }
+

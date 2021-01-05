@@ -1,0 +1,38 @@
+.note {
+    background: #fff;
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    padding: 10px;
+    width: 300px;
+    margin: 16px;
+    /* float: left; */
+    float: right;
+  }
+  
+  .note h5 {
+      font-size: 1.1em;
+      margin-bottom: 6px;
+    }
+    .note p {
+      font-size: 0.8em;
+      margin-bottom: 10px;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    } 
+  
+    .progress{
+      font-size: 0.6em;
+    }
+
+    .btn{
+        border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display:flex;
+  right: 50px;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+    }
+    
